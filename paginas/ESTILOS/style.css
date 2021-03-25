@@ -1,0 +1,38 @@
+body{
+background-color: #F8DAC3;
+color: rgb(105, 1, 65);
+margin: 0%;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: #660038;
+    font-size: 50px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sofia', cursive;
+    text-shadow: 2px 2px rgb(54, 54, 54); /*2px de sombra horizontal y vertical*/
+ /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */text-shadow: 2px 2px rgb(136, 134, 134); /*2px de sombra horizontal y vertical*/
+ /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */ 
+}
+
+h2{
+    color: #660038;
+    font-size: 50px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sofia', cursive;
+    text-shadow: 2px 2px rgb(54, 54, 54); /*2px de sombra horizontal y vertical*/
+ /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */text-shadow: 2px 2px rgb(136, 134, 134); /*2px de sombra horizontal y vertical*/
+ /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */ 
+}
+
+ol{
+    color: #660038;
+margin: 0%;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+li
